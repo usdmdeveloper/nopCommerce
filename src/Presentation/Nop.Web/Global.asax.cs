@@ -20,6 +20,7 @@ using Nop.Web.Framework.Themes;
 using StackExchange.Profiling;
 using StackExchange.Profiling.Mvc;
 
+
 namespace Nop.Web
 {
     public class MvcApplication : HttpApplication
